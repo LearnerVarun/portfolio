@@ -9,3 +9,8 @@ Thumbs.db
 .taste-skill/
 .agents/
 skills-lock.json
+
+# Next.js & dependencies
+node_modules/
+.next/
+out/
