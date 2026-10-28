@@ -4,3 +4,8 @@
 # Operating system files
 Thumbs.db
 .DS_Store
+
+# Tooling and taste-skill inspect artifacts
+.taste-skill/
+.agents/
+skills-lock.json
