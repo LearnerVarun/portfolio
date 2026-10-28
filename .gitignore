@@ -1,0 +1,6 @@
+# Exclude original PDF documents with private personal details
+*.pdf
+
+# Operating system files
+Thumbs.db
+.DS_Store
